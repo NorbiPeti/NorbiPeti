@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Not really using my GitHub anymore. But I do have a [website](https://norbipeti.eu).
+
 <!--
 **NorbiPeti/NorbiPeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
